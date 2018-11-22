@@ -1,0 +1,14 @@
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\bin\Debug\netcoreapp2.1\HealthFoodAPI.deps.json
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\bin\Debug\netcoreapp2.1\HealthFoodAPI.runtimeconfig.json
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\bin\Debug\netcoreapp2.1\HealthFoodAPI.runtimeconfig.dev.json
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\bin\Debug\netcoreapp2.1\HealthFoodAPI.dll
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\bin\Debug\netcoreapp2.1\HealthFoodAPI.pdb
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.csprojAssemblyReference.cache
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.csproj.CoreCompileInputs.cache
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.RazorAssemblyInfo.cache
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.RazorAssemblyInfo.cs
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.AssemblyInfoInputs.cache
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.AssemblyInfo.cs
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.dll
+C:\Users\Agnes\Desktop\HealthFoodAPI\HealthFoodAPI\obj\Debug\netcoreapp2.1\HealthFoodAPI.pdb
